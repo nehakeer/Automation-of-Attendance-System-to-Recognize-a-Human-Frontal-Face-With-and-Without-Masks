@@ -1,1 +1,2 @@
 # Automation-of-Attendance-System-to-Recognize-a-Human-Frontal-Face-With-and-Without-Masks
+Convolutional Neural Network (CNN) and Support Vector Machine (SVM) models are used to find out the identity of the person along with which model works better from a performance, accuracy, and computational point of view. The automated attendance system will predict the face getting captured over the webcam to mark the attendance. The mask has been applied using Homography method so that mask can be placed properly on the face and photos looks more realistic.
